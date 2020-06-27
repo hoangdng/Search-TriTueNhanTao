@@ -1,0 +1,13 @@
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\bin\Debug\netcoreapp3.1\SearchDigits.exe
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\bin\Debug\netcoreapp3.1\SearchDigits.deps.json
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\bin\Debug\netcoreapp3.1\SearchDigits.runtimeconfig.json
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\bin\Debug\netcoreapp3.1\SearchDigits.runtimeconfig.dev.json
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\bin\Debug\netcoreapp3.1\SearchDigits.dll
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\bin\Debug\netcoreapp3.1\SearchDigits.pdb
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\obj\Debug\netcoreapp3.1\SearchDigits.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\obj\Debug\netcoreapp3.1\SearchDigits.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\obj\Debug\netcoreapp3.1\SearchDigits.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\obj\Debug\netcoreapp3.1\SearchDigits.AssemblyInfo.cs
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\obj\Debug\netcoreapp3.1\SearchDigits.dll
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\obj\Debug\netcoreapp3.1\SearchDigits.pdb
+C:\Users\nguye\Desktop\TriTueNhanTao\SearchDigits\obj\Debug\netcoreapp3.1\SearchDigits.genruntimeconfig.cache
