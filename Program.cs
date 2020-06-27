@@ -8,8 +8,10 @@ namespace SearchDigits
     {
         static void Main(string[] args)
         {
-            BFS bfs = new BFS();
-            bfs.Search();
+            // BFS bfs = new BFS();
+            // bfs.Search();
+            DFS dfs = new DFS();
+            dfs.Search();
         }
     }
 }

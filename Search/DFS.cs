@@ -4,11 +4,11 @@ using System.Collections.Generic;
 
 namespace SearchDigits.Search
 {
-    public class BFS
+    public class DFS
     {
         static State Start = new State();
         static State Goal = new State();
-        static Queue<State> Open = new Queue<State>();
+        static Stack<State> Open = new Stack<State>();
         static Dictionary<string, State> Closed = new Dictionary<string, State>();
 
         public static void RandomState()
@@ -67,7 +67,7 @@ namespace SearchDigits.Search
         {
             //B1: Cho dinh xuat phat vao Open
             RandomState();
-            Open.Enqueue(Start);
+            Open.Push(Start);
             Closed.Add(Start.GetKey(), Start);
 
             int step = 0;
@@ -79,7 +79,7 @@ namespace SearchDigits.Search
 
                 //B3: Lay dinh day cua Open ra, goi do la O
                 step++;
-                State O = Open.Dequeue();
+                State O = Open.Pop();
 
                 //B4: Neu O la dich thi tim kiem thanh cong
                 if (Equal(O, Goal))
@@ -98,7 +98,7 @@ namespace SearchDigits.Search
                         continue;
                     childState.preState = O;
                     childState.preOp = op;
-                    Open.Enqueue(childState);
+                    Open.Push(childState);
                     Closed.Add(childState.GetKey(), childState);
                 }
 
